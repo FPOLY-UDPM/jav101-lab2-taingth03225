@@ -8,12 +8,12 @@
 <h2>Đây là main_page</h2>
 <%-- Code của bạn ở đây --%>
 <p>Bắt đầu directive include</p>
-<%@ include file="sub.jsp" %>
+<%@ include file="sub_page.jsp" %>
 
 <p>-------------------------------------</p>
 
 <p>Bắt đầu jsp include</p>
-<jsp:include page="sub.jsp" />
+<jsp:include page="sub_page.jsp" />
 
 </body>
 </html>
