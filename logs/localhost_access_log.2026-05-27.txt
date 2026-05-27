@@ -24,3 +24,17 @@
 0:0:0:0:0:0:0:1 - - [27/May/2026:10:11:51 +0700] "GET /Java_Web_Template/ HTTP/1.1" 200 57
 0:0:0:0:0:0:0:1 - - [27/May/2026:10:11:51 +0700] "GET /favicon.ico HTTP/1.1" 404 683
 0:0:0:0:0:0:0:1 - - [27/May/2026:10:11:55 +0700] "GET /Java_Web_Template/bai2/user HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:11 +0700] "GET /Java_Web_Template HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:11 +0700] "GET /Java_Web_Template HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:13 +0700] "GET /Java_Web_Template/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:13 +0700] "GET /Java_Web_Template/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:13 +0700] "GET /favicon.ico HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:13 +0700] "GET /favicon.ico HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:17 +0700] "GET /Java_Web_Template/sharer HTTP/1.1" 200 125
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:55 +0700] "GET /Java_Web_Template/bai3/form HTTP/1.1" 200 1060
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:28:59 +0700] "POST /Java_Web_Template/bai3/form HTTP/1.1" 200 1060
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:29:01 +0700] "POST /Java_Web_Template/bai3/form HTTP/1.1" 200 1060
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:35:33 +0700] "GET /Java_Web_Template HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:35:36 +0700] "GET /Java_Web_Template/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:35:54 +0700] "GET /Java_Web_Template/bai3/form HTTP/1.1" 200 1060
+0:0:0:0:0:0:0:1 - - [27/May/2026:10:36:09 +0700] "GET /Java_Web_Template/sharer HTTP/1.1" 200 125
